@@ -79,3 +79,4 @@ fabric.properties
 
 !/NOTES.md
 /katas/resources/programming-books/
+/.idea/
