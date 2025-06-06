@@ -2,6 +2,8 @@
 
 ## Katas
 
+Katas at different level of complexity:
+
 * [Retro Programming](katas/kata_retro_programming.md)
 * [Fuel Tracker](katas/kata_fuel_tracker.md)
 * [Podcast Publishing](katas/kata_podcast_publishing.md)

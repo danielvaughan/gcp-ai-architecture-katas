@@ -1,1 +1,3 @@
 # AI Education
+
+Rating: Medium

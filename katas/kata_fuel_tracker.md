@@ -1,5 +1,7 @@
 # Fuel Tracker
 
+Rating: Medium
+
 I like to keep track of the fuel I use in my car but find filling out an app or spreadsheet fiddly.an
 
 I want to take two photos, one of the petrol pump when finished and another of the dashboard of my car.an
